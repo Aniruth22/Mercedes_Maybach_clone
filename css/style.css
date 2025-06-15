@@ -1,0 +1,207 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.header1{
+    background-color:black;
+    display: flex;
+}
+.heading{
+    color: white;
+    font-weight:lighter;
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-bottom: 2px;
+}
+.image{
+    padding-left: 50px;
+}
+.privacy{
+    color:lightgrey;
+    margin-left: 400px;
+    margin-top: 40px;
+    font-size: small;
+    text-decoration: none;
+}
+.search{
+    padding-left: 0px;
+    margin-top: 38px;
+    margin-bottom: 50px;
+}
+.searchbox{
+    padding-left: 10px;
+    border-color: aqua;
+    display: flex;
+    border-radius: 10;
+}
+.searchimg{
+    display: flex;
+    margin-top: 40px;
+    padding-left: 4px;
+}
+.starbutton{
+    background-color: black;
+    border-style:solid;
+}
+.starimg{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 15px;
+    background-color: black;
+    border-style: solid;
+}
+.header2{
+    background-color: black;
+    display: flex;
+    border-bottom: 4px solid;
+    border-color: white;
+}
+.ourmodels{
+    border-top: 10%;
+    padding-left: 80px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.ourmodelstext{
+    color: rgb(227, 214, 206);
+    text-decoration: none;
+    margin-top: 9px;
+}
+.ourmodelstext:hover{
+    color: white;
+}
+.Buyonline{
+    color: rgb(227, 214, 206);
+    padding-left: 40px;
+    padding-top: 9px;
+    text-decoration: none;
+}
+.Buyonline:hover{
+    color: white;
+}
+.Finance{
+    color: rgb(227, 214, 206);
+    padding-left: 40px;
+    padding-top: 9px;
+    text-decoration: none;
+}
+.Finance:hover{
+    color: white;
+}
+.Services{
+    color: rgb(227, 214, 206);
+    padding-left: 40px;
+    padding-top: 9px;
+    text-decoration: none;
+}
+.Services:hover{
+    color: white;
+}
+.OurBrand{
+    color: rgb(227, 214, 206);
+    padding-left: 40px;
+    padding-top: 9px;
+    text-decoration: none;
+}
+.OurBrand:hover{
+    color: white;
+}
+.videobg{
+    display: flex;
+}
+.video{
+    display:flex;
+    background: fixed;
+    position:absolute;
+    z-index: -1;
+}
+.vidtext{
+    margin-top: 200px;
+    margin-left: 40px;
+    font-weight: lighter;
+    font-size:x-large;
+    font-family: 'Times New Roman';
+    color: white;
+    display: flex;
+}
+.vidtext1{
+    display:inline-flex;
+}
+.learn-text{
+    text-decoration: none;
+    position:absolute;
+    color: white;
+    display: flex;
+    border: solid 1px;
+    border-color: rgb(105, 105, 105);
+    padding: 10px;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 83%;
+}
+.learn-text:hover{
+    background-color: rgba(133, 123, 123, 0.532);
+}
+.bac-text{
+    background-color: white;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    position: relative;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+.bac-text:hover{
+    color: white;
+    background-color: black;
+}
+.mercedesBenz{
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    margin-top: 297px;
+    margin-left: 430px;
+    margin-right: 430px;
+    border: solid 1px;
+    border-color: gray;
+}
+.Mercedes-Benz-text{
+    text-decoration: none;
+    color: black;
+    padding: 25px;
+    padding-right: 15px;
+    display: flex;
+    border-right: solid 1px;
+    border-color: gray;
+    font-size: larger;
+}
+.Mercedes-Benz-text:hover{
+    background-color: lightgray;
+}
+.AMG-text{
+    text-decoration: none;
+    color: black;
+    padding: 25px;
+    border-right: solid 1px;
+    border-color: gray;
+    font-size: larger;
+}
+.AMG-text:hover{
+    background-color: lightgray;
+}
+.Maybach-text{
+    text-decoration: none;
+    color: black;
+    padding: 25px;
+    font-size: larger;
+}
+.Maybach-text:hover{
+    background-color: lightgray;
+}
+.our-recommendation-text{
+    display: flex;
+    font-size: xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
